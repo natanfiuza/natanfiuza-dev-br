@@ -1,5 +1,7 @@
 <?php
 
+use Inertia\Inertia;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +16,20 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return Inertia::render('Home');
+});
+
+Route::get('/login', function () {
+    return Inertia::render('Login');
+});
+
+Route::get('/tailwind', function () {
+    return view('tailwind');
+});
+
+Route::post('/login', function (Request $request) {
+    $request->validate([
+        'email' => ['required','email'],
+        'password' => ['required'],
+    ]);
 });
