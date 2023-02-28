@@ -15,7 +15,7 @@
                             <inertia-link href="/login">
                                 <button type="button"
                                     class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700">
-                                    <span class="">Open main menu</span>
+                                    <span class="">Open main</span>
 
                                 </button>
                             </inertia-link>
