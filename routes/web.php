@@ -27,6 +27,10 @@ Route::get('/tailwind', function () {
     return view('tailwind');
 });
 
+Route::get('/layout', function () {
+    return view('layout');
+});
+
 Route::post('/login', function (Request $request) {
     $request->validate([
         'email' => ['required','email'],
