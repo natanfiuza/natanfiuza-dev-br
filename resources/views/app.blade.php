@@ -7,6 +7,8 @@
     @vite('resources/js/app.js')
     @vite('resources/css/app.css')
     @inertiaHead
+    @googlefonts('miriamlibre')
+    @googlefonts('merriweather')
   </head>
   <body>
     @inertia
