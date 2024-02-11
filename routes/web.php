@@ -17,7 +17,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return Inertia::render('Home');
-});
+})->name('home');
+
+Route::get('/principal', function () {
+    return Inertia::render('Principal');
+})->name('principal');
 
 Route::get('/login', function () {
     return Inertia::render('Login');

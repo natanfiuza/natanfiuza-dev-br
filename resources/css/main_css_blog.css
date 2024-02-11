@@ -135,21 +135,33 @@ body.light-theme {
 .logo {
     font-size: var(--font-size-md);
     color: var(--light-color);
+
 }
 
 .logo-keys {
     color: #0f4fff !important;
 }
 
-.logo-keys::after {
+.logo-keys-left::after {
     color: #a6c0d3 !important;
     content: attr(data-name);
     font-size: var(--font-size-lg);
     text-transform: uppercase;
-    opacity: 1.2;
-    position: absolute;
-    top: 2.2rem;
-    left: 2rem;
+    opacity: .2;
+    position: relative;
+    margin-right:-17px ;
+    top: 0.1rem;
+    left: -2.1rem;
+}
+.logo-keys-right::after {
+    color: #a6c0d3 !important;
+    content: attr(data-name);
+    font-size: var(--font-size-lg);
+    text-transform: uppercase;
+    opacity: .2;
+    position: relative;
+    top: 0.1rem;
+    left: -.7rem;
 }
 
 .menu {
