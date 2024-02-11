@@ -28,6 +28,7 @@ export default defineConfig({
                 "resources/css/main_css_blog.css",
                 "resources/css/main.css",
                 "resources/js/app.js",
+                "resources/js/main.js",
             ],
             refresh: true,
         }),
