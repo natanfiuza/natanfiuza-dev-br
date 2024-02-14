@@ -21,6 +21,8 @@ import SearchModal from '@/Shared/Home/SearchModal.vue'
 import OlderPosts from '@/Shared/Home/OlderPosts.vue'
 import QuickRead from '@/Shared/Home/QuickRead.vue'
 import Featured from '@/Shared/Home/Featured.vue'
+
+// Swiper
 export default {
     components: {
         Head,
@@ -32,7 +34,9 @@ export default {
         OlderPosts,
         QuickRead,
         Featured,
+
     },
+
 }
 </script>
 <style>
