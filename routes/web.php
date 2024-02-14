@@ -37,6 +37,10 @@ Route::get('/', function () {
     return Inertia::render('Home');
 })->name('home');
 
+Route::get('/post', function () {
+    return Inertia::render('Post');
+})->name('post');
+
 Route::get('/principal', function () {
     return Inertia::render('Principal');
 })->name('principal');

@@ -2,7 +2,7 @@
        <header class="header" id="header">
 
             <nav class="navbar container">
-                <a href="{{route('principal')}}">
+                <a href="/">
                     <h3 class="logo"><span class="logo-keys logo-keys-left" data-name="{">{</span>NatanFiuza<span class="logo-keys logo-keys-right" data-name="}">}</span></h3>
                 </a>
 
@@ -52,7 +52,7 @@
 <script>
 export default {
     setup(props) {
-        
+
     }
 }
 </script>

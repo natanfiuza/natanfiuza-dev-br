@@ -14,7 +14,7 @@
                             <span class="headline-description" id="breaking-news-container">Apple announces a new partnership...</span>
                         </div>
 
-                        <a href="./post.html" class="article featured-article featured-article-1">
+                        <a href="/post" class="article featured-article featured-article-1">
                             <img src="/assets/images/featured/featured-2.jpg" alt="" class="article-image">
                             <span class="article-category">Food</span>
 
@@ -31,7 +31,7 @@
                             </div>
                         </a>
 
-                        <a href="./post.html" class="article featured-article featured-article-2">
+                        <a href="/post" class="article featured-article featured-article-2">
                             <img src="/assets/images/featured/featured-1.jpg" alt="" class="article-image">
                             <span class="article-category">Technology</span>
 
@@ -48,7 +48,7 @@
                             </div>
                         </a>
 
-                        <a href="./post.html" class="article featured-article featured-article-3">
+                        <a href="/post" class="article featured-article featured-article-3">
                             <img src="/assets/images/featured/featured-3.jpg" alt="" class="article-image">
                             <span class="article-category">Health</span>
 
