@@ -7,7 +7,7 @@
                 <a href="{{route('home')}}">
                   <h2 class="logo"><span class="logo-keys logo-keys-left" data-name="{">{</span>NatanFiuza<span class="logo-keys logo-keys-right" data-name="}">}</span></h2>
                 </a>
-                <p class="company-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, iure. Harum, animi dolores, nam, ad magni expedita.</p>
+                <p class="company-description">Blog pessoal com noticias e dicas sobre programação e tecnologia.</p>
 
                 <ul class="list social-media">
                     <li class="list-item">
@@ -53,12 +53,7 @@
                     <li class="list-item">
                         <a href="#" class="list-link">Tags</a>
                     </li>
-                    <li class="list-item">
-                        <a href="#" class="list-link">Authors</a>
-                    </li>
-                    <li class="list-item">
-                        <a href="#" class="list-link">Membership</a>
-                    </li>
+
                 </ul>
 
             </div>
@@ -76,12 +71,7 @@
                     <li class="list-item">
                         <a href="#" class="list-link">Careers</a>
                     </li>
-                    <li class="list-item">
-                        <a href="#" class="list-link">Authors</a>
-                    </li>
-                    <li class="list-item">
-                        <a href="#" class="list-link">Memberships</a>
-                    </li>
+
                 </ul>
 
             </div>
