@@ -680,6 +680,7 @@ body.light-theme {
 .company-description {
     margin-block: var(--margin-sm);
     max-width: 75%;
+    padding-bottom: -40px;
 }
 
 .social-media {
