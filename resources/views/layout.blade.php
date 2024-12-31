@@ -103,18 +103,18 @@
                 </div>
 
                         <a href="./post.html" class="article featured-article featured-article-1">
-                    <img src="/assets/images/featured/featured-2.jpg" alt="" class="article-image">
-                    <span class="article-category">Food</span>
+                    <img src="/assets/images/post/artigo_machine_learning_fundamentos.png" alt="" class="article-image">
+                    <span class="article-category">AI</span>
 
                     <div class="article-data-container">
 
                         <div class="article-data">
-                            <span>Dec 6th 2021</span>
+                            <span>25 Dez 2024</span>
                             <span class="article-data-spacer"></span>
-                            <span>4 Min read</span>
+                            <span>Leitura 4 Min </span>
                         </div>
 
-                        <h3 class="title article-title">Fine dining 101</h3>
+                        <h3 class="title article-title">Machine Learning: Fundamentos</h3>
 
                     </div>
                 </a>
