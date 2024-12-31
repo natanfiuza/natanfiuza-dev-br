@@ -1,136 +1,145 @@
 <template>
     <div>
-                <!-- Older posts -->
-            <section class="older-posts section">
+        <!-- Older posts -->
+        <section class="older-posts section">
 
-                <div class="container">
+            <div class="container">
 
-                    <h2 class="title section-title" data-name="Older posts">Older posts</h2>
+                <h2 class="title section-title" data-name="Older posts">Older posts</h2>
 
-                    <div class="older-posts-grid-wrapper d-grid">
+                <div class="older-posts-grid-wrapper d-grid">
 
-                        <a href="#" class="article d-grid">
-                            <div class="older-posts-article-image-wrapper">
-                                <img src="/assets/images/older_posts/older_posts_1.jpg" alt="" class="article-image">
+                    <a href="#" class="article d-grid">
+                        <div class="older-posts-article-image-wrapper">
+                            <img src="/assets/images/post/artigo_machine_learning_fundamentos.png" alt=""
+                                class="article-image">
+                        </div>
+
+                        <div class="article-data-container">
+
+                            <div class="article-data">
+                                <span>25 Dez 2024</span>
+                                <span class="article-data-spacer"></span>
+                                <span>Leitura 4 Min </span>
                             </div>
 
-                            <div class="article-data-container">
+                            <h3 class="title article-title">Machine Learning: Fundamentos</h3>
+                            <p class="article-description">O aprendizado de máquina é um subcampo da inteligência
+                                artificial (IA) que se concentra em permitir que os sistemas de computador aprendam com
+                                dados sem serem explicitamente programados.</p>
 
-                                <div class="article-data">
-                                    <span>23 Dec 2021</span>
-                                    <span class="article-data-spacer"></span>
-                                    <span>3 Min read</span>
-                                </div>
+                        </div>
+                    </a>
 
-                                <h3 class="title article-title">Sample article title</h3>
-                                <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                    <a href="#" class="article d-grid">
+                        <div class="older-posts-article-image-wrapper">
+                            <img src="/assets/images/older_posts/older_posts_2.jpg" alt="" class="article-image">
+                        </div>
 
-                            </div>
-                        </a>
+                        <div class="article-data-container">
 
-                        <a href="#" class="article d-grid">
-                            <div class="older-posts-article-image-wrapper">
-                                <img src="/assets/images/older_posts/older_posts_2.jpg" alt="" class="article-image">
-                            </div>
-
-                            <div class="article-data-container">
-
-                                <div class="article-data">
-                                    <span>23 Dec 2021</span>
-                                    <span class="article-data-spacer"></span>
-                                    <span>3 Min read</span>
-                                </div>
-
-                                <h3 class="title article-title">Sample article title</h3>
-                                <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
-
-                            </div>
-                        </a>
-
-                        <a href="#" class="article d-grid">
-                            <div class="older-posts-article-image-wrapper">
-                                <img src="/assets/images/older_posts/older_posts_3.jpg" alt="" class="article-image">
+                            <div class="article-data">
+                                <span>23 Dec 2021</span>
+                                <span class="article-data-spacer"></span>
+                                <span>3 Min read</span>
                             </div>
 
-                            <div class="article-data-container">
+                            <h3 class="title article-title">Sample article title</h3>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
-                                <div class="article-data">
-                                    <span>23 Dec 2021</span>
-                                    <span class="article-data-spacer"></span>
-                                    <span>3 Min read</span>
-                                </div>
+                        </div>
+                    </a>
 
-                                <h3 class="title article-title">Sample article title</h3>
-                                <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                    <a href="#" class="article d-grid">
+                        <div class="older-posts-article-image-wrapper">
+                            <img src="/assets/images/older_posts/older_posts_3.jpg" alt="" class="article-image">
+                        </div>
 
-                            </div>
-                        </a>
+                        <div class="article-data-container">
 
-                        <a href="#" class="article d-grid">
-                            <div class="older-posts-article-image-wrapper">
-                                <img src="/assets/images/older_posts/older_posts_4.jpg" alt="" class="article-image">
-                            </div>
-
-                            <div class="article-data-container">
-
-                                <div class="article-data">
-                                    <span>23 Dec 2021</span>
-                                    <span class="article-data-spacer"></span>
-                                    <span>3 Min read</span>
-                                </div>
-
-                                <h3 class="title article-title">Sample article title</h3>
-                                <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
-
-                            </div>
-                        </a>
-
-                        <a href="#" class="article d-grid">
-                            <div class="older-posts-article-image-wrapper">
-                                <img src="/assets/images/older_posts/older_posts_5.jpg" alt="" class="article-image">
+                            <div class="article-data">
+                                <span>23 Dec 2021</span>
+                                <span class="article-data-spacer"></span>
+                                <span>3 Min read</span>
                             </div>
 
-                            <div class="article-data-container">
+                            <h3 class="title article-title">Sample article title</h3>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
-                                <div class="article-data">
-                                    <span>23 Dec 2021</span>
-                                    <span class="article-data-spacer"></span>
-                                    <span>3 Min read</span>
-                                </div>
+                        </div>
+                    </a>
 
-                                <h3 class="title article-title">Sample article title</h3>
-                                <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                    <a href="#" class="article d-grid">
+                        <div class="older-posts-article-image-wrapper">
+                            <img src="/assets/images/older_posts/older_posts_4.jpg" alt="" class="article-image">
+                        </div>
 
+                        <div class="article-data-container">
+
+                            <div class="article-data">
+                                <span>23 Dec 2021</span>
+                                <span class="article-data-spacer"></span>
+                                <span>3 Min read</span>
                             </div>
-                        </a>
 
-                        <a href="#" class="article d-grid">
-                            <div class="older-posts-article-image-wrapper">
-                                <img src="/assets/images/older_posts/older_posts_6.jpg" alt="" class="article-image">
+                            <h3 class="title article-title">Sample article title</h3>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+
+                        </div>
+                    </a>
+
+                    <a href="#" class="article d-grid">
+                        <div class="older-posts-article-image-wrapper">
+                            <img src="/assets/images/older_posts/older_posts_5.jpg" alt="" class="article-image">
+                        </div>
+
+                        <div class="article-data-container">
+
+                            <div class="article-data">
+                                <span>23 Dec 2021</span>
+                                <span class="article-data-spacer"></span>
+                                <span>3 Min read</span>
                             </div>
 
-                            <div class="article-data-container">
+                            <h3 class="title article-title">Sample article title</h3>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
-                                <div class="article-data">
-                                    <span>23 Dec 2021</span>
-                                    <span class="article-data-spacer"></span>
-                                    <span>3 Min read</span>
-                                </div>
+                        </div>
+                    </a>
 
-                                <h3 class="title article-title">Sample article title</h3>
-                                <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                    <a href="#" class="article d-grid">
+                        <div class="older-posts-article-image-wrapper">
+                            <img src="/assets/images/older_posts/older_posts_6.jpg" alt="" class="article-image">
+                        </div>
 
+                        <div class="article-data-container">
+
+                            <div class="article-data">
+                                <span>23 Dec 2021</span>
+                                <span class="article-data-spacer"></span>
+                                <span>3 Min read</span>
                             </div>
-                        </a>
 
-                    </div>
+                            <h3 class="title article-title">Sample article title</h3>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
-                    <div class="see-more-container">
-                        <a href="#" class="btn see-more-btn place-items-center">See more <i class="ri-arrow-right-s-line"></i></a>
-                    </div>
+                        </div>
+                    </a>
 
                 </div>
 
-            </section>
+                <div class="see-more-container">
+                    <a href="#" class="btn see-more-btn place-items-center">See more <i
+                            class="ri-arrow-right-s-line"></i></a>
+                </div>
+
+            </div>
+
+        </section>
     </div>
 </template>

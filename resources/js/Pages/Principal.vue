@@ -1,8 +1,8 @@
 <template>
 
-<div>
+    <div>
 
-       <!-- Featured articles -->
+        <!-- Featured articles -->
         <section class="featured-articles section section-header-offset">
 
             <div class="featured-articles-container container d-grid">
@@ -13,22 +13,24 @@
                         <h3 class="headline fancy-border-bn">
                             <span class="place-items-center">Últimas notícias</span>
                         </h3>
-                        <span class="headline-description" id="breaking-news-container">Apple announces a new partnership...</span>
+                        <span class="headline-description" id="breaking-news-container">Apple announces a new
+                            partnership...</span>
                     </div>
 
-                            <a href="./post.html" class="article featured-article featured-article-1">
-                        <img src="/assets/images/featured/featured-2.jpg" alt="" class="article-image">
-                        <span class="article-category">Food</span>
+                    <a href="./post.html" class="article featured-article featured-article-1">
+                        <img src="/assets/images/post/artigo_machine_learning_fundamentos.png" alt=""
+                            class="article-image">
+                        <span class="article-category">IA</span>
 
                         <div class="article-data-container">
 
                             <div class="article-data">
-                                <span>Dec 6th 2021</span>
+                                <span>25 Dez 2024</span>
                                 <span class="article-data-spacer"></span>
-                                <span>4 Min read</span>
+                                <span>12 Min</span>
                             </div>
 
-                            <h3 class="title article-title">Fine dining 101</h3>
+                            <h3 class="title article-title">Machine Learning: Fundamentos</h3>
 
                         </div>
                     </a>
@@ -225,7 +227,8 @@
                             </div>
 
                             <h3 class="title article-title">Sample article title</h3>
-                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
                         </div>
                     </a>
@@ -244,7 +247,8 @@
                             </div>
 
                             <h3 class="title article-title">Sample article title</h3>
-                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
                         </div>
                     </a>
@@ -263,7 +267,8 @@
                             </div>
 
                             <h3 class="title article-title">Sample article title</h3>
-                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
                         </div>
                     </a>
@@ -282,7 +287,8 @@
                             </div>
 
                             <h3 class="title article-title">Sample article title</h3>
-                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
                         </div>
                     </a>
@@ -301,7 +307,8 @@
                             </div>
 
                             <h3 class="title article-title">Sample article title</h3>
-                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
                         </div>
                     </a>
@@ -320,7 +327,8 @@
                             </div>
 
                             <h3 class="title article-title">Sample article title</h3>
-                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                            <p class="article-description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
 
                         </div>
                     </a>
@@ -328,7 +336,8 @@
                 </div>
 
                 <div class="see-more-container">
-                    <a href="#" class="btn see-more-btn place-items-center">See more <i class="ri-arrow-right-s-line"></i></a>
+                    <a href="#" class="btn see-more-btn place-items-center">See more <i
+                            class="ri-arrow-right-s-line"></i></a>
                 </div>
 
             </div>
@@ -388,7 +397,8 @@
 
                 <div class="form-container-inner">
                     <h6 class="title newsletter-title">Subscribe to NewsFlash</h6>
-                    <p class="newsletter-description">Lorem ipsum dolor sit amet consectetur adipisicing quaerat dignissimos.</p>
+                    <p class="newsletter-description">Lorem ipsum dolor sit amet consectetur adipisicing quaerat
+                        dignissimos.</p>
 
                     <form action="" class="form">
                         <input class="form-input" type="text" placeholder="Enter your email address">
@@ -403,7 +413,7 @@
 
         </section>
 
-</div>
+    </div>
 
 </template>
 <script>
