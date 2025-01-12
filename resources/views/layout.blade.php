@@ -58,8 +58,8 @@
                     <i class="ri-close-line close-menu-icon"></i>
                 </button>
 
-                <a href="#" class="list-link screen-sm-hidden">Entrar</a>
-                <a href="#" class="btn  fancy-border screen-sm-hidden">
+                <a href="login" class="list-link screen-sm-hidden">Entrar</a>
+                <a href="register" class="btn  fancy-border screen-sm-hidden">
                     <span>Registrar</span>
                 </a>
             </div>
